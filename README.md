@@ -72,6 +72,13 @@ Ini adalah catatan belajarku menuju menjadi Data Analyst. Aku akan update setiap
 | 2025-06-08  | Simpan & Gunakan Model      | SQL    | 30m    | ⏳ Belum   |
 | 2025-06-09  | Buat Script Prediksi & Segmentasi Otomatis      | SQL    | 30m    | ⏳ Belum   |
 | 2025-06-10  | Proyek Mini: Model Prediksi & Segmentasi      | SQL    | 30m    | ⏳ Belum   |
+| 2025-06-11  | Prinsip Storytelling      | SQL    | 30m    | ⏳ Belum   |
+| 2025-06-12  | Pilih Visual yang Tepat      | SQL    | 30m    | ⏳ Belum   |
+| 2025-06-13  | Narasi + Visual      | SQL    | 30m    | ⏳ Belum   |
+| 2025-06-14  | Presentasi Mini Project      | SQL    | 30m    | ⏳ Belum   |
+| 2025-06-15  | Presentasi Mini Project      | SQL    | 30m    | ⏳ Belum   |
+| 2025-06-16  | Presentasi Mini Project      | SQL    | 30m    | ⏳ Belum   |
+| 2025-06-17  | Dokumentasi GitHub      | SQL    | 30m    | ⏳ Belum   |
 
 ---
 
@@ -86,3 +93,5 @@ Ini adalah catatan belajarku menuju menjadi Data Analyst. Aku akan update setiap
 - [ ] MINGGU 7 – Statistik Dasar + Data Nyata
 - [ ] MINGGU 8 – Data Cleaning & Feature Engineering
 - [ ] MINGGU 9 – Analisis Prediktif & Segmentasi Pelanggan
+- [ ] MINGGU 10 – Data Storytelling & Presentasi Analitik
+- [ ] MINGGU 11 – Portfolio Project Komplit
